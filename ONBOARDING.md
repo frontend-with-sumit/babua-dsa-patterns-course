@@ -36,21 +36,21 @@ This sheet is designed to help onboard new learners into the course.
 | 12  | 707.1 Design Linked List (Theory)                      | [🎥 Watch Video](https://www.youtube.com/watch?v=ZWtxxHEuCdU&list=PLVItHqpXY_DC3UTWNaskA1Q-1Gv-uAAb0&index=2)  | — | ✅      |
 | 13  | 707.2 Design Linked List (Code)                        | [🎥 Watch Video](https://www.youtube.com/watch?v=MLeTJR81O4E&list=PLVItHqpXY_DC3UTWNaskA1Q-1Gv-uAAb0&index=3)  | [LeetCode 707](https://leetcode.com/problems/design-linked-list/) | ☐      |
 | 14  | 0. Introduction to Queues                              | [🎥 Watch Video](https://www.youtube.com/watch?v=6Q-VOnii7FI&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj)          | — | ☐      |
-| 15  | 622. Design Circular Queue                             | [🎥 Watch Video](https://www.youtube.com/watch?v=CrZzJOyjQFE&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj&index=2)  | — | ☐      |
+| 15  | 622. Design Circular Queue (Code)                            | [🎥 Watch Video](https://www.youtube.com/watch?v=CrZzJOyjQFE&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj&index=2)  | — | ☐      |
 | 16  | Queue Methods For Interviews                           | [🎥 Watch Video](https://www.youtube.com/watch?v=CClHsoo5CrQ&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj&index=3)  | — | ☐      |
-| 17  | 705. Design HashSet                                    | [🎥 Watch Video](https://www.youtube.com/watch?v=NfTyAM6T7to&list=PLVItHqpXY_DC3jKLtYYyM26ZdofoVVtpo)          | — | ☐      |
-| 18  | 706. Design HashMap                                    | [🎥 Watch Video](https://www.youtube.com/watch?v=Q2dzzbFqKmo&list=PLVItHqpXY_DC3jKLtYYyM26ZdofoVVtpo&index=2)  | — | ☐      |
+| 17  | 705. Design HashSet (Code)                                  | [🎥 Watch Video](https://www.youtube.com/watch?v=NfTyAM6T7to&list=PLVItHqpXY_DC3jKLtYYyM26ZdofoVVtpo)          | — | ☐      |
+| 18  | 706. Design HashMap (Code)                                  | [🎥 Watch Video](https://www.youtube.com/watch?v=Q2dzzbFqKmo&list=PLVItHqpXY_DC3jKLtYYyM26ZdofoVVtpo&index=2)  | — | ☐      |
 | 19  | Binary Tree-1-Theory                                   | [🎥 Watch Video](https://www.youtube.com/watch?v=KejwzBy5hkg&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_)          | — | ☐      |
-| 20  | 144. Binary Tree Preorder Traversal                    | [🎥 Watch Video](https://www.youtube.com/watch?v=-K8hwyHidSg&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=2)  | — | ☐      |
-| 21  | 94. Binary Tree Inorder Traversal                      | [🎥 Watch Video](https://www.youtube.com/watch?v=zatMy62PlK0&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=3)  | — | ☐      |
-| 22  | 102. Binary Tree Level Order Traversal                 | [🎥 Watch Video](https://www.youtube.com/watch?v=nK1uE8eJnTs&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=4)  | — | ☐      |
+| 20  | 144. Binary Tree Preorder Traversal (Code)                   | [🎥 Watch Video](https://www.youtube.com/watch?v=-K8hwyHidSg&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=2)  | — | ☐      |
+| 21  | 94. Binary Tree Inorder Traversal (Code)                     | [🎥 Watch Video](https://www.youtube.com/watch?v=zatMy62PlK0&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=3)  | — | ☐      |
+| 22  | 102. Binary Tree Level Order Traversal (Code)                | [🎥 Watch Video](https://www.youtube.com/watch?v=nK1uE8eJnTs&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=4)  | — | ☐      |
 | 23  | Top Down Recursion                                     | [🎥 Watch Video](https://www.youtube.com/watch?v=POqFMgBLBJY&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=5)  | — | ☐      |
 | 24  | Bottom Up Approach                                     | [🎥 Watch Video](https://www.youtube.com/watch?v=QW0rO5CH33s&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=6)  | — | ☐      |
-| 25  | 144. Binary Tree Preorder Traversal (Recursive)        | [🎥 Watch Video](https://www.youtube.com/watch?v=h8cwmSQoRms&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=7)  | — | ☐      |
-| 26  | 94. Binary Tree Inorder Traversal (Recursive)          | [🎥 Watch Video](https://www.youtube.com/watch?v=w-UKr-3wEx4&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=8)  | — | ☐      |
-| 27  | 145. Binary Tree Postorder Traversal (Recursive)       | [🎥 Watch Video](https://www.youtube.com/watch?v=HU2xPg5lbs8&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=9)  | — | ☐      |
+| 25  | 144. Binary Tree Preorder Traversal (Recursive) (Code)       | [🎥 Watch Video](https://www.youtube.com/watch?v=h8cwmSQoRms&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=7)  | — | ☐      |
+| 26  | 94. Binary Tree Inorder Traversal (Recursive) (Code)         | [🎥 Watch Video](https://www.youtube.com/watch?v=w-UKr-3wEx4&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=8)  | — | ☐      |
+| 27  | 145. Binary Tree Postorder Traversal (Recursive) (Code)      | [🎥 Watch Video](https://www.youtube.com/watch?v=HU2xPg5lbs8&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_&index=9)  | — | ☐      |
 | 28  | Binary Search-1-Theory                                 | [🎥 Watch Video](https://www.youtube.com/watch?v=bDwl6BMTQqc&list=PLVItHqpXY_DA6PffX2yw1l2wsDnGLbsLU)          | — | ☐      |
-| 29  | 704. Binary Search                                     | [🎥 Watch Video](https://www.youtube.com/watch?v=vo92sw_qN_Q&list=PLVItHqpXY_DA6PffX2yw1l2wsDnGLbsLU&index=2)  | — | ☐      |
+| 29  | 704. Binary Search (Code)                                    | [🎥 Watch Video](https://www.youtube.com/watch?v=vo92sw_qN_Q&list=PLVItHqpXY_DA6PffX2yw1l2wsDnGLbsLU&index=2)  | — | ☐      |
 | 30  | Sorting-1-Theory                                       | [🎥 Watch Video](https://www.youtube.com/watch?v=xk7O7jflrMo&list=PLVItHqpXY_DC71VlQBzG7bV3XDTbPjAmo)          | — | ☐      |
 | 31  | Comparison-Based Sort                                  | [🎥 Watch Video](https://www.youtube.com/watch?v=KRahIjlkQgI&list=PLVItHqpXY_DC71VlQBzG7bV3XDTbPjAmo&index=2)  | — | ☐      |
 | 32  | Recursion-1-Introduction                               | [🎥 Watch Video](https://www.youtube.com/watch?v=p37ycIwH32Q&list=PLVItHqpXY_DDo-qFL0qEUVEvAIrrNeVY7)          | — | ☐      |
@@ -60,7 +60,7 @@ This sheet is designed to help onboard new learners into the course.
 | 36  | Introduction to Stacks                                 | [🎥 Watch Video](https://www.youtube.com/watch?v=-hZJcd949C4&list=PLVItHqpXY_DDEczzeVj-iHsK9kVBDe4jX&index=2)  | — | ☐      |
 | 37  | 155. Min Stack                                         | [🎥 Watch Video](https://www.youtube.com/watch?v=K-_nLrXJ3AI&list=PLVItHqpXY_DDEczzeVj-iHsK9kVBDe4jX&index=3)  | — | ☐      |
 | 38  | Binary Search Tree - 1-Introduction                    | [🎥 Watch Video](https://www.youtube.com/watch?v=1lMmEPJBvsI&list=PLVItHqpXY_DDhGX0DVsasDCQ7EIj-LmyD&index=2)  | — | ☐      |
-| 39  | 700. Search in a Binary Search Tree                    | [🎥 Watch Video](https://www.youtube.com/watch?v=2udPES1G1KM&list=PLVItHqpXY_DDhGX0DVsasDCQ7EIj-LmyD&index=3)  | — | ☐      |
+| 39  | 700. Search in a Binary Search Tree (Code)                    | [🎥 Watch Video](https://www.youtube.com/watch?v=2udPES1G1KM&list=PLVItHqpXY_DDhGX0DVsasDCQ7EIj-LmyD&index=3)  | — | ☐      |
 | 40  | What is Dynamic Programming???                         | [🎥 Watch Video](https://www.youtube.com/watch?v=yLMZcu3eesk&list=PLVItHqpXY_DCx3O3RqtQtIycL1Turmb01&index=2)  | — | ☐      |
 | 41  | 💡 Top-Down vs Bottom-Up in Dynamic Programming (DP)   | [🎥 Watch Video](https://www.youtube.com/watch?v=425rDIfst8E&list=PLVItHqpXY_DCx3O3RqtQtIycL1Turmb01&index=3)  | — | ☐      |
 | 42  | Identify DP Problems                                   | [🎥 Watch Video](https://www.youtube.com/watch?v=7-H4ij0MWTM&list=PLVItHqpXY_DCx3O3RqtQtIycL1Turmb01&index=4)  | — | ☐      |
